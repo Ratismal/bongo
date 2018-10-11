@@ -1,0 +1,14 @@
+// export an array of 2-bit integers
+// bit 1: right arm (left side)
+// bit 2: left arm (right side)
+// 0 = up
+// 1 = down
+module.exports = [
+    // This example has a single bar of alternating arms
+
+    // 1:1
+    0b10,
+    0b01,
+    0b10,
+    0b01,
+]
