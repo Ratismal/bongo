@@ -1,15 +1,19 @@
 {
   "name": "bongo",
   "version": "1.0.0",
-  "description": "",
+  "description": "A bongocat beat generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "stupid cat",
   "license": "ISC",
   "dependencies": {
     "gifencoder": "^1.1.0",
     "jimp": "^0.5.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ratismal/bongo.git"
+  },
 }
